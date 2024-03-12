@@ -2,7 +2,7 @@
 
 # AND101 Project 3 - AnimalApps
 
-Submitted by: **Dog Sign Up*
+Submitted by: **Dog Sign Up**
 
 Time spent: **4** hours spent in total
 
@@ -20,10 +20,10 @@ The following REQUIRED features are completed:
 
 - [x] Pick an app screenshot to duplicate
   - Be sure to add the screenshot to "Chosen Screenshot" below.
-- [ ] Create a runnable app that displays an Animal Version of your chosen screenshot
-- [ ] Layout uses one (1) or more ConstraintLayout
-- [ ] Layout uses one (1) or more ImageView
-- [ ] Layout uses three (3) or more TextViews
+- [x] Create a runnable app that displays an Animal Version of your chosen screenshot
+- [x] Layout uses one (1) or more ConstraintLayout
+- [x] Layout uses one (1) or more ImageView
+- [x] Layout uses three (3) or more TextViews
 
 The following STRETCH features are implemented:
 
@@ -34,21 +34,22 @@ The following STRETCH features are implemented:
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [x] List anything else that you added to improve the app!
+  -  I added other colors and made separate xml files to add colors to the button and input text boxes
 
 ## Chosen Screenshot
 
 I have chosen to duplicate the following layout from the **App Name Here** app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://cdn.designvault.io/media/20230109205844/image-27.jpg' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/ZqXya5P.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **LICEcap**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -66,10 +67,11 @@ It is for an app that **brief description**.
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+- Figuring out how the files interact with each other and how to have attributes of the view elements fulfill what I want
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2024** **Reneca Capuno**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
